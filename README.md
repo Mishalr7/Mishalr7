@@ -5,8 +5,7 @@
 ---
 
 ###  About Me  
-About Me
-Passionate about building intelligent systems and interactive web experiences. Exploring Node.js, React.js, and Machine Learning. I turn ideas into reality through clean design and efficient code.
+I', Passionate about building intelligent systems and interactive web experiences. Exploring Node.js, React.js, and Machine Learning. I turn ideas into reality through clean design and efficient code.
 
 ---
 
