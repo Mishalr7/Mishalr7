@@ -26,4 +26,4 @@
 </p>
 
 ---
-### 🌍 “Learning, building, and growing — one project at a time.”
+### 🌍 “Study Hard,Work Hard.”
