@@ -20,6 +20,3 @@ Full Stack Development, AI/ML, and Mobile Development focused on creating modern
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,cpp,java,flask,git,figma,sqlite,c" />
 </p>
 
----
-
-###  “Study Hard,Work Hard.”
