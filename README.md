@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Mishal7&color=blue)
+d![Profile Views](https://komarev.com/ghpvc/?username=Mishal7&color=blue)
 <h1 align="center" >Hi 👋,I'm Mishal K</h1>
 <h3 align="center">Computer Science Engineering Student | BTech CSE @ CUSAT '28</h3>
 
@@ -16,6 +16,6 @@ Full Stack Development, AI/ML, and Mobile Development focused on creating modern
 
 ###  Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,cpp,java,flask,git,figma,sqlite,c,bootstrap,vscode,github,linux,supabase,notion" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,cpp,java,flask,git,figma,sqlite,c,bootstrap,vscode,github,linux,supabase,notion,mongo,express" />
 </p>
 
