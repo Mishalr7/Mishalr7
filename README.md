@@ -15,7 +15,7 @@ Full Stack Development, AI/ML, and Mobile Development focused on creating modern
 ---
 
 ###  Languages & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,cpp,java,flask,git,figma,sqlite,c,bootstrap,vscode,github,linux,supabase,notion,mongo,express,n8n" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,cpp,java,c" /><br/>
+<img src="https://skillicons.dev/icons?i=sqlite,mongo,supabase,git,github,linux,vscode,notion,n8n" />
 
