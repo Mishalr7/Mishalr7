@@ -1,4 +1,4 @@
-d![Profile Views](https://komarev.com/ghpvc/?username=Mishal7&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Mishal7&color=blue)
 <h1 align="center" >Hi 👋,I'm Mishal K</h1>
 <h3 align="center">Computer Science Engineering Student | BTech CSE @ CUSAT '28</h3>
 
